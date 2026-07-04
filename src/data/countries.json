@@ -1,0 +1,3048 @@
+{
+ "version": 1,
+ "kind": "country",
+ "features": [
+  {
+   "id": "country:af",
+   "kind": "country",
+   "name": "Afghanistan",
+   "aliases": [
+    "islamic republic of afghanistan",
+    "afġānistān"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "AF"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:al",
+   "kind": "country",
+   "name": "Albania",
+   "aliases": [
+    "republic of albania",
+    "shqipëri",
+    "shqipëria",
+    "shqipnia"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "AL"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:dz",
+   "kind": "country",
+   "name": "Algeria",
+   "aliases": [
+    "people's democratic republic of algeria",
+    "dzayer",
+    "algérie"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "DZ"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:ad",
+   "kind": "country",
+   "name": "Andorra",
+   "aliases": [
+    "principality of andorra",
+    "principat d'andorra"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "AD"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:ao",
+   "kind": "country",
+   "name": "Angola",
+   "aliases": [
+    "republic of angola",
+    "república de angola",
+    "ʁɛpublika de an'ɡɔla"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "AO"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:ag",
+   "kind": "country",
+   "name": "Antigua and Barbuda",
+   "aliases": [],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "AG"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:ar",
+   "kind": "country",
+   "name": "Argentina",
+   "aliases": [
+    "argentine republic",
+    "república argentina"
+   ],
+   "region": "south-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "AR"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:am",
+   "kind": "country",
+   "name": "Armenia",
+   "aliases": [
+    "republic of armenia",
+    "hayastan",
+    "հայաստանի հանրապետություն"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "AM"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:au",
+   "kind": "country",
+   "name": "Australia",
+   "aliases": [
+    "commonwealth of australia"
+   ],
+   "region": "oceania",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "AU"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:au",
+   "kind": "country",
+   "name": "Australia",
+   "aliases": [
+    "commonwealth of australia"
+   ],
+   "region": "oceania",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "AU"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:at",
+   "kind": "country",
+   "name": "Austria",
+   "aliases": [
+    "republic of austria",
+    "osterreich",
+    "oesterreich"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "AT"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:az",
+   "kind": "country",
+   "name": "Azerbaijan",
+   "aliases": [
+    "republic of azerbaijan",
+    "azərbaycan respublikası"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "AZ"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:bs",
+   "kind": "country",
+   "name": "Bahamas",
+   "aliases": [
+    "commonwealth of the bahamas"
+   ],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BS"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:bh",
+   "kind": "country",
+   "name": "Bahrain",
+   "aliases": [
+    "kingdom of bahrain",
+    "mamlakat al-baḥrayn"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BH"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:bd",
+   "kind": "country",
+   "name": "Bangladesh",
+   "aliases": [
+    "people's republic of bangladesh",
+    "gônôprôjatôntri bangladesh"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BD"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:bb",
+   "kind": "country",
+   "name": "Barbados",
+   "aliases": [],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BB"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:by",
+   "kind": "country",
+   "name": "Belarus",
+   "aliases": [
+    "republic of belarus",
+    "bielaruś",
+    "белоруссия",
+    "республика белоруссия"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BY"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:be",
+   "kind": "country",
+   "name": "Belgium",
+   "aliases": [
+    "kingdom of belgium",
+    "belgië",
+    "belgie",
+    "belgien",
+    "belgique",
+    "koninkrijk belgië",
+    "royaume de belgique",
+    "königreich belgien"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BE"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:bz",
+   "kind": "country",
+   "name": "Belize",
+   "aliases": [],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BZ"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:bj",
+   "kind": "country",
+   "name": "Benin",
+   "aliases": [
+    "republic of benin",
+    "république du bénin"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BJ"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:bt",
+   "kind": "country",
+   "name": "Bhutan",
+   "aliases": [
+    "kingdom of bhutan"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BT"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:bo",
+   "kind": "country",
+   "name": "Bolivia",
+   "aliases": [
+    "plurinational state of bolivia",
+    "buliwya",
+    "wuliwya",
+    "bolivia, plurinational state of",
+    "estado plurinacional de bolivia",
+    "buliwya mamallaqta",
+    "wuliwya suyu",
+    "tetã volívia"
+   ],
+   "region": "south-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BO"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:ba",
+   "kind": "country",
+   "name": "Bosnia and Herzegovina",
+   "aliases": [
+    "bosnia-herzegovina",
+    "босна и херцеговина"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BA"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:bw",
+   "kind": "country",
+   "name": "Botswana",
+   "aliases": [
+    "republic of botswana",
+    "lefatshe la botswana"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BW"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:br",
+   "kind": "country",
+   "name": "Brazil",
+   "aliases": [
+    "federative republic of brazil",
+    "brasil",
+    "república federativa do brasil"
+   ],
+   "region": "south-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BR"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:bn",
+   "kind": "country",
+   "name": "Brunei",
+   "aliases": [
+    "nation of brunei, abode of peace",
+    "brunei darussalam",
+    "nation of brunei",
+    "the abode of peace"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BN"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:bg",
+   "kind": "country",
+   "name": "Bulgaria",
+   "aliases": [
+    "republic of bulgaria",
+    "република българия"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BG"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:bf",
+   "kind": "country",
+   "name": "Burkina Faso",
+   "aliases": [],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BF"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:bi",
+   "kind": "country",
+   "name": "Burundi",
+   "aliases": [
+    "republic of burundi",
+    "republika y'uburundi",
+    "république du burundi"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "BI"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:kh",
+   "kind": "country",
+   "name": "Cambodia",
+   "aliases": [
+    "kingdom of cambodia"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "KH"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:cm",
+   "kind": "country",
+   "name": "Cameroon",
+   "aliases": [
+    "republic of cameroon",
+    "république du cameroun"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "CM"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:ca",
+   "kind": "country",
+   "name": "Canada",
+   "aliases": [],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "CA"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:cv",
+   "kind": "country",
+   "name": "Cape Verde",
+   "aliases": [
+    "republic of cabo verde",
+    "república de cabo verde"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "CV"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:cf",
+   "kind": "country",
+   "name": "Central African Republic",
+   "aliases": [
+    "république centrafricaine"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "CF"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:td",
+   "kind": "country",
+   "name": "Chad",
+   "aliases": [
+    "republic of chad",
+    "tchad",
+    "république du tchad"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "TD"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:cl",
+   "kind": "country",
+   "name": "Chile",
+   "aliases": [
+    "republic of chile",
+    "república de chile"
+   ],
+   "region": "south-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "CL"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:cn",
+   "kind": "country",
+   "name": "China",
+   "aliases": [
+    "people's republic of china",
+    "zhōngguó",
+    "zhongguo",
+    "zhonghua",
+    "中华人民共和国",
+    "zhōnghuá rénmín gònghéguó"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "CN"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:co",
+   "kind": "country",
+   "name": "Colombia",
+   "aliases": [
+    "republic of colombia",
+    "república de colombia"
+   ],
+   "region": "south-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "CO"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:km",
+   "kind": "country",
+   "name": "Comoros",
+   "aliases": [
+    "union of the comoros",
+    "union des comores",
+    "udzima wa komori",
+    "al-ittiḥād al-qumurī"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "KM"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:cr",
+   "kind": "country",
+   "name": "Costa Rica",
+   "aliases": [
+    "republic of costa rica",
+    "república de costa rica"
+   ],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "CR"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:hr",
+   "kind": "country",
+   "name": "Croatia",
+   "aliases": [
+    "republic of croatia",
+    "hrvatska",
+    "republika hrvatska"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "HR"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:cu",
+   "kind": "country",
+   "name": "Cuba",
+   "aliases": [
+    "republic of cuba",
+    "república de cuba"
+   ],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "CU"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:cy",
+   "kind": "country",
+   "name": "Cyprus",
+   "aliases": [
+    "republic of cyprus",
+    "kýpros",
+    "kıbrıs",
+    "κυπριακή δημοκρατία",
+    "kıbrıs cumhuriyeti"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "CY"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:cz",
+   "kind": "country",
+   "name": "Czechia",
+   "aliases": [
+    "czech republic",
+    "česká republika",
+    "česko"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "CZ"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:dk",
+   "kind": "country",
+   "name": "Denmark",
+   "aliases": [
+    "kingdom of denmark",
+    "danmark",
+    "kongeriget danmark"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "DK"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:dj",
+   "kind": "country",
+   "name": "Djibouti",
+   "aliases": [
+    "republic of djibouti",
+    "jabuuti",
+    "gabuuti",
+    "république de djibouti",
+    "gabuutih ummuuno",
+    "jamhuuriyadda jabuuti"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "DJ"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:dm",
+   "kind": "country",
+   "name": "Dominica",
+   "aliases": [
+    "commonwealth of dominica",
+    "dominique",
+    "wai‘tu kubuli"
+   ],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "DM"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:do",
+   "kind": "country",
+   "name": "Dominican Republic",
+   "aliases": [],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "DO"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:cd",
+   "kind": "country",
+   "name": "DR Congo",
+   "aliases": [
+    "congo-kinshasa",
+    "democratic republic of congo",
+    "democratic republic of the congo",
+    "congo, the democratic republic of the",
+    "drc"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "CD"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:ec",
+   "kind": "country",
+   "name": "Ecuador",
+   "aliases": [
+    "republic of ecuador",
+    "república del ecuador"
+   ],
+   "region": "south-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "EC"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:eg",
+   "kind": "country",
+   "name": "Egypt",
+   "aliases": [
+    "arab republic of egypt"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "EG"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:sv",
+   "kind": "country",
+   "name": "El Salvador",
+   "aliases": [
+    "republic of el salvador",
+    "república de el salvador"
+   ],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SV"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:gq",
+   "kind": "country",
+   "name": "Equatorial Guinea",
+   "aliases": [
+    "republic of equatorial guinea",
+    "república de guinea ecuatorial",
+    "république de guinée équatoriale",
+    "república da guiné equatorial"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "GQ"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:er",
+   "kind": "country",
+   "name": "Eritrea",
+   "aliases": [
+    "state of eritrea",
+    "ሃገረ ኤርትራ",
+    "dawlat iritriyá",
+    "ʾertrā",
+    "iritriyā"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "ER"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:ee",
+   "kind": "country",
+   "name": "Estonia",
+   "aliases": [
+    "republic of estonia",
+    "eesti",
+    "eesti vabariik"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "EE"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:sz",
+   "kind": "country",
+   "name": "Eswatini",
+   "aliases": [
+    "swaziland",
+    "kingdom of eswatini",
+    "weswatini",
+    "swatini",
+    "ngwane",
+    "umbuso weswatini"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SZ"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:et",
+   "kind": "country",
+   "name": "Ethiopia",
+   "aliases": [
+    "federal democratic republic of ethiopia",
+    "ʾītyōṗṗyā",
+    "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "ET"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:fj",
+   "kind": "country",
+   "name": "Fiji",
+   "aliases": [
+    "republic of fiji",
+    "viti",
+    "matanitu ko viti",
+    "fijī gaṇarājya"
+   ],
+   "region": "oceania",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "FJ"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:fi",
+   "kind": "country",
+   "name": "Finland",
+   "aliases": [
+    "republic of finland",
+    "suomi",
+    "suomen tasavalta",
+    "republiken finland"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "FI"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:fr",
+   "kind": "country",
+   "name": "France",
+   "aliases": [
+    "french republic",
+    "république française"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "FR"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:ga",
+   "kind": "country",
+   "name": "Gabon",
+   "aliases": [
+    "gabonese republic",
+    "république gabonaise"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "GA"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:gm",
+   "kind": "country",
+   "name": "Gambia",
+   "aliases": [
+    "republic of the gambia"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "GM"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:ge",
+   "kind": "country",
+   "name": "Georgia",
+   "aliases": [
+    "sakartvelo"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "GE"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:de",
+   "kind": "country",
+   "name": "Germany",
+   "aliases": [
+    "federal republic of germany",
+    "bundesrepublik deutschland"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "DE"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:gh",
+   "kind": "country",
+   "name": "Ghana",
+   "aliases": [
+    "republic of ghana"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "GH"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:gr",
+   "kind": "country",
+   "name": "Greece",
+   "aliases": [
+    "hellenic republic",
+    "elláda",
+    "ελληνική δημοκρατία"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "GR"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:gd",
+   "kind": "country",
+   "name": "Grenada",
+   "aliases": [],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "GD"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:gt",
+   "kind": "country",
+   "name": "Guatemala",
+   "aliases": [
+    "republic of guatemala"
+   ],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "GT"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:gn",
+   "kind": "country",
+   "name": "Guinea",
+   "aliases": [
+    "republic of guinea",
+    "république de guinée"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "GN"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:gw",
+   "kind": "country",
+   "name": "Guinea-Bissau",
+   "aliases": [
+    "republic of guinea-bissau",
+    "república da guiné-bissau"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "GW"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:gy",
+   "kind": "country",
+   "name": "Guyana",
+   "aliases": [
+    "co-operative republic of guyana"
+   ],
+   "region": "south-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "GY"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:ht",
+   "kind": "country",
+   "name": "Haiti",
+   "aliases": [
+    "republic of haiti",
+    "république d'haïti",
+    "repiblik ayiti"
+   ],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "HT"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:hn",
+   "kind": "country",
+   "name": "Honduras",
+   "aliases": [
+    "republic of honduras",
+    "república de honduras"
+   ],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "HN"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:hu",
+   "kind": "country",
+   "name": "Hungary",
+   "aliases": [],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "HU"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:is",
+   "kind": "country",
+   "name": "Iceland",
+   "aliases": [
+    "island",
+    "republic of iceland",
+    "lýðveldið ísland"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "IS"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:in",
+   "kind": "country",
+   "name": "India",
+   "aliases": [
+    "republic of india",
+    "bhārat",
+    "bharat ganrajya",
+    "இந்தியா"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "IN"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:id",
+   "kind": "country",
+   "name": "Indonesia",
+   "aliases": [
+    "republic of indonesia",
+    "republik indonesia"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "ID"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:ir",
+   "kind": "country",
+   "name": "Iran",
+   "aliases": [
+    "islamic republic of iran",
+    "iran, islamic republic of",
+    "jomhuri-ye eslāmi-ye irān"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "IR"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:iq",
+   "kind": "country",
+   "name": "Iraq",
+   "aliases": [
+    "republic of iraq",
+    "jumhūriyyat al-‘irāq"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "IQ"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:ie",
+   "kind": "country",
+   "name": "Ireland",
+   "aliases": [
+    "republic of ireland",
+    "éire",
+    "poblacht na héireann"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "IE"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:il",
+   "kind": "country",
+   "name": "Israel",
+   "aliases": [
+    "state of israel",
+    "medīnat yisrā'el"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "IL"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:it",
+   "kind": "country",
+   "name": "Italy",
+   "aliases": [
+    "italian republic",
+    "repubblica italiana"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "IT"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:ci",
+   "kind": "country",
+   "name": "Ivory Coast",
+   "aliases": [
+    "republic of côte d'ivoire",
+    "côte d'ivoire",
+    "cote d'ivoire",
+    "république de côte d'ivoire"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "CI"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:jm",
+   "kind": "country",
+   "name": "Jamaica",
+   "aliases": [],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "JM"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:jp",
+   "kind": "country",
+   "name": "Japan",
+   "aliases": [
+    "nippon",
+    "nihon"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "JP"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:jo",
+   "kind": "country",
+   "name": "Jordan",
+   "aliases": [
+    "hashemite kingdom of jordan",
+    "al-mamlakah al-urdunīyah al-hāshimīyah"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "JO"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:kz",
+   "kind": "country",
+   "name": "Kazakhstan",
+   "aliases": [
+    "republic of kazakhstan",
+    "qazaqstan",
+    "казахстан",
+    "қазақстан республикасы",
+    "qazaqstan respublïkası",
+    "республика казахстан",
+    "respublika kazakhstan"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "KZ"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:ke",
+   "kind": "country",
+   "name": "Kenya",
+   "aliases": [
+    "republic of kenya",
+    "jamhuri ya kenya"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "KE"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:ki",
+   "kind": "country",
+   "name": "Kiribati",
+   "aliases": [
+    "independent and sovereign republic of kiribati",
+    "republic of kiribati",
+    "ribaberiki kiribati"
+   ],
+   "region": "oceania",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "KI"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:xk",
+   "kind": "country",
+   "name": "Kosovo",
+   "aliases": [
+    "republic of kosovo",
+    "република косово"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "XK"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:kw",
+   "kind": "country",
+   "name": "Kuwait",
+   "aliases": [
+    "state of kuwait",
+    "dawlat al-kuwait"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "KW"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:kg",
+   "kind": "country",
+   "name": "Kyrgyzstan",
+   "aliases": [
+    "kyrgyz republic",
+    "киргизия",
+    "кыргыз республикасы",
+    "kyrgyz respublikasy"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "KG"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:la",
+   "kind": "country",
+   "name": "Laos",
+   "aliases": [
+    "lao people's democratic republic",
+    "lao",
+    "sathalanalat paxathipatai paxaxon lao"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "LA"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:lv",
+   "kind": "country",
+   "name": "Latvia",
+   "aliases": [
+    "republic of latvia",
+    "latvijas republika"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "LV"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:lb",
+   "kind": "country",
+   "name": "Lebanon",
+   "aliases": [
+    "lebanese republic",
+    "al-jumhūrīyah al-libnānīyah"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "LB"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:ls",
+   "kind": "country",
+   "name": "Lesotho",
+   "aliases": [
+    "kingdom of lesotho",
+    "muso oa lesotho"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "LS"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:lr",
+   "kind": "country",
+   "name": "Liberia",
+   "aliases": [
+    "republic of liberia"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "LR"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:ly",
+   "kind": "country",
+   "name": "Libya",
+   "aliases": [
+    "state of libya",
+    "dawlat libya"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "LY"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:li",
+   "kind": "country",
+   "name": "Liechtenstein",
+   "aliases": [
+    "principality of liechtenstein",
+    "fürstentum liechtenstein"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "LI"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:lt",
+   "kind": "country",
+   "name": "Lithuania",
+   "aliases": [
+    "republic of lithuania",
+    "lietuvos respublika"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "LT"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:lu",
+   "kind": "country",
+   "name": "Luxembourg",
+   "aliases": [
+    "grand duchy of luxembourg",
+    "grand-duché de luxembourg",
+    "großherzogtum luxemburg",
+    "groussherzogtum lëtzebuerg"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "LU"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:mg",
+   "kind": "country",
+   "name": "Madagascar",
+   "aliases": [
+    "republic of madagascar",
+    "repoblikan'i madagasikara",
+    "république de madagascar"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "MG"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:mw",
+   "kind": "country",
+   "name": "Malawi",
+   "aliases": [
+    "republic of malawi"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "MW"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:my",
+   "kind": "country",
+   "name": "Malaysia",
+   "aliases": [],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "MY"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:mv",
+   "kind": "country",
+   "name": "Maldives",
+   "aliases": [
+    "republic of the maldives",
+    "maldive islands",
+    "dhivehi raajjeyge jumhooriyya"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "MV"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:ml",
+   "kind": "country",
+   "name": "Mali",
+   "aliases": [
+    "republic of mali",
+    "république du mali"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "ML"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:mt",
+   "kind": "country",
+   "name": "Malta",
+   "aliases": [
+    "republic of malta",
+    "repubblika ta' malta"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "MT"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:mh",
+   "kind": "country",
+   "name": "Marshall Islands",
+   "aliases": [
+    "republic of the marshall islands",
+    "aolepān aorōkin m̧ajeļ"
+   ],
+   "region": "oceania",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "MH"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:mr",
+   "kind": "country",
+   "name": "Mauritania",
+   "aliases": [
+    "islamic republic of mauritania",
+    "al-jumhūriyyah al-ʾislāmiyyah al-mūrītāniyyah"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "MR"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:mu",
+   "kind": "country",
+   "name": "Mauritius",
+   "aliases": [
+    "republic of mauritius",
+    "république de maurice"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "MU"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:mx",
+   "kind": "country",
+   "name": "Mexico",
+   "aliases": [
+    "united mexican states",
+    "mexicanos",
+    "estados unidos mexicanos"
+   ],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "MX"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:fm",
+   "kind": "country",
+   "name": "Micronesia",
+   "aliases": [
+    "federated states of micronesia",
+    "micronesia, federated states of"
+   ],
+   "region": "oceania",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "FM"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:md",
+   "kind": "country",
+   "name": "Moldova",
+   "aliases": [
+    "republic of moldova",
+    "moldova, republic of",
+    "republica moldova"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "MD"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:mc",
+   "kind": "country",
+   "name": "Monaco",
+   "aliases": [
+    "principality of monaco",
+    "principauté de monaco"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "MC"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:mn",
+   "kind": "country",
+   "name": "Mongolia",
+   "aliases": [],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "MN"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:me",
+   "kind": "country",
+   "name": "Montenegro",
+   "aliases": [
+    "crna gora"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "ME"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:ma",
+   "kind": "country",
+   "name": "Morocco",
+   "aliases": [
+    "kingdom of morocco",
+    "al-mamlakah al-maġribiyah"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "MA"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:mz",
+   "kind": "country",
+   "name": "Mozambique",
+   "aliases": [
+    "republic of mozambique",
+    "república de moçambique"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "MZ"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:mm",
+   "kind": "country",
+   "name": "Myanmar",
+   "aliases": [
+    "burma",
+    "republic of the union of myanmar",
+    "pyidaunzu thanmăda myăma nainngandaw"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "MM"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:na",
+   "kind": "country",
+   "name": "Namibia",
+   "aliases": [
+    "republic of namibia",
+    "namibië"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "NA"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:nr",
+   "kind": "country",
+   "name": "Nauru",
+   "aliases": [
+    "republic of nauru",
+    "naoero",
+    "pleasant island",
+    "ripublik naoero"
+   ],
+   "region": "oceania",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "NR"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:np",
+   "kind": "country",
+   "name": "Nepal",
+   "aliases": [
+    "federal democratic republic of nepal",
+    "loktāntrik ganatantra nepāl"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "NP"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:nl",
+   "kind": "country",
+   "name": "Netherlands",
+   "aliases": [
+    "holland",
+    "kingdom of the netherlands",
+    "nederland",
+    "the netherlands"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "NL"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:nz",
+   "kind": "country",
+   "name": "New Zealand",
+   "aliases": [
+    "aotearoa"
+   ],
+   "region": "oceania",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "NZ"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:ni",
+   "kind": "country",
+   "name": "Nicaragua",
+   "aliases": [
+    "republic of nicaragua",
+    "república de nicaragua"
+   ],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "NI"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:ne",
+   "kind": "country",
+   "name": "Niger",
+   "aliases": [
+    "republic of niger",
+    "nijar"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "NE"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:ng",
+   "kind": "country",
+   "name": "Nigeria",
+   "aliases": [
+    "federal republic of nigeria",
+    "nijeriya",
+    "naíjíríà"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "NG"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:kp",
+   "kind": "country",
+   "name": "North Korea",
+   "aliases": [
+    "democratic people's republic of korea",
+    "dprk",
+    "조선민주주의인민공화국",
+    "chosŏn minjujuŭi inmin konghwaguk",
+    "korea, democratic people's republic of",
+    "북조선"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "KP"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:mk",
+   "kind": "country",
+   "name": "North Macedonia",
+   "aliases": [
+    "macedonia",
+    "republic of north macedonia",
+    "the former yugoslav republic of macedonia",
+    "macedonia, the former yugoslav republic of",
+    "република северна македонија"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "MK"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:no",
+   "kind": "country",
+   "name": "Norway",
+   "aliases": [
+    "kingdom of norway",
+    "norge",
+    "noreg",
+    "kongeriket norge",
+    "kongeriket noreg"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "NO"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:om",
+   "kind": "country",
+   "name": "Oman",
+   "aliases": [
+    "sultanate of oman",
+    "salṭanat ʻumān"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "OM"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:pk",
+   "kind": "country",
+   "name": "Pakistan",
+   "aliases": [
+    "islamic republic of pakistan",
+    "pākistān",
+    "islāmī jumhūriya'eh pākistān"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "PK"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:pw",
+   "kind": "country",
+   "name": "Palau",
+   "aliases": [
+    "republic of palau",
+    "beluu er a belau"
+   ],
+   "region": "oceania",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "PW"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:ps",
+   "kind": "country",
+   "name": "Palestine",
+   "aliases": [
+    "state of palestine",
+    "palestine, state of",
+    "dawlat filasṭin"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "PS"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:pa",
+   "kind": "country",
+   "name": "Panama",
+   "aliases": [
+    "republic of panama",
+    "república de panamá"
+   ],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "PA"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:pg",
+   "kind": "country",
+   "name": "Papua New Guinea",
+   "aliases": [
+    "independent state of papua new guinea",
+    "independen stet bilong papua niugini"
+   ],
+   "region": "oceania",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "PG"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:py",
+   "kind": "country",
+   "name": "Paraguay",
+   "aliases": [
+    "republic of paraguay",
+    "república del paraguay",
+    "tetã paraguái"
+   ],
+   "region": "south-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "PY"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:pe",
+   "kind": "country",
+   "name": "Peru",
+   "aliases": [
+    "republic of peru",
+    "república del perú"
+   ],
+   "region": "south-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "PE"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:ph",
+   "kind": "country",
+   "name": "Philippines",
+   "aliases": [
+    "republic of the philippines",
+    "repúblika ng pilipinas"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "PH"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:pl",
+   "kind": "country",
+   "name": "Poland",
+   "aliases": [
+    "republic of poland",
+    "rzeczpospolita polska"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "PL"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:pt",
+   "kind": "country",
+   "name": "Portugal",
+   "aliases": [
+    "portuguese republic",
+    "portuguesa",
+    "república portuguesa"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "PT"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:qa",
+   "kind": "country",
+   "name": "Qatar",
+   "aliases": [
+    "state of qatar",
+    "dawlat qaṭar"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "QA"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:cg",
+   "kind": "country",
+   "name": "Republic of the Congo",
+   "aliases": [
+    "congo-brazzaville",
+    "congo"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "CG"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:ro",
+   "kind": "country",
+   "name": "Romania",
+   "aliases": [
+    "rumania",
+    "roumania",
+    "românia"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "RO"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:ru",
+   "kind": "country",
+   "name": "Russia",
+   "aliases": [
+    "russian federation",
+    "российская федерация"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "RU"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:rw",
+   "kind": "country",
+   "name": "Rwanda",
+   "aliases": [
+    "republic of rwanda",
+    "repubulika y'u rwanda",
+    "république du rwanda"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "RW"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:kn",
+   "kind": "country",
+   "name": "Saint Kitts and Nevis",
+   "aliases": [
+    "federation of saint christopher and nevis"
+   ],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "KN"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:lc",
+   "kind": "country",
+   "name": "Saint Lucia",
+   "aliases": [],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "LC"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:vc",
+   "kind": "country",
+   "name": "Saint Vincent and the Grenadines",
+   "aliases": [],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "VC"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:ws",
+   "kind": "country",
+   "name": "Samoa",
+   "aliases": [
+    "independent state of samoa",
+    "malo saʻoloto tutoʻatasi o sāmoa"
+   ],
+   "region": "oceania",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "WS"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:sm",
+   "kind": "country",
+   "name": "San Marino",
+   "aliases": [
+    "most serene republic of san marino",
+    "republic of san marino",
+    "repubblica di san marino"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SM"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:st",
+   "kind": "country",
+   "name": "São Tomé and Príncipe",
+   "aliases": [
+    "democratic republic of são tomé and príncipe",
+    "sao tome and principe",
+    "república democrática de são tomé e príncipe"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "ST"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:sa",
+   "kind": "country",
+   "name": "Saudi Arabia",
+   "aliases": [
+    "kingdom of saudi arabia",
+    "saudi",
+    "al-mamlakah al-‘arabiyyah as-su‘ūdiyyah"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SA"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:sn",
+   "kind": "country",
+   "name": "Senegal",
+   "aliases": [
+    "republic of senegal",
+    "république du sénégal"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SN"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:rs",
+   "kind": "country",
+   "name": "Serbia",
+   "aliases": [
+    "republic of serbia",
+    "srbija",
+    "republika srbija",
+    "србија",
+    "република србија"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "RS"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:sc",
+   "kind": "country",
+   "name": "Seychelles",
+   "aliases": [
+    "republic of seychelles",
+    "repiblik sesel",
+    "république des seychelles"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SC"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:sl",
+   "kind": "country",
+   "name": "Sierra Leone",
+   "aliases": [
+    "republic of sierra leone"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SL"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:sg",
+   "kind": "country",
+   "name": "Singapore",
+   "aliases": [
+    "republic of singapore",
+    "singapura",
+    "republik singapura",
+    "新加坡共和国"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SG"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:sk",
+   "kind": "country",
+   "name": "Slovakia",
+   "aliases": [
+    "slovak republic",
+    "slovenská republika"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SK"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:si",
+   "kind": "country",
+   "name": "Slovenia",
+   "aliases": [
+    "republic of slovenia",
+    "republika slovenija"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SI"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:sb",
+   "kind": "country",
+   "name": "Solomon Islands",
+   "aliases": [],
+   "region": "oceania",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SB"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:so",
+   "kind": "country",
+   "name": "Somalia",
+   "aliases": [
+    "federal republic of somalia",
+    "aṣ-ṣūmāl",
+    "jamhuuriyadda federaalka soomaaliya",
+    "jumhūriyyat aṣ-ṣūmāl al-fiderāliyya"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SO"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:za",
+   "kind": "country",
+   "name": "South Africa",
+   "aliases": [
+    "republic of south africa",
+    "rsa",
+    "suid-afrika"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "ZA"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:kr",
+   "kind": "country",
+   "name": "South Korea",
+   "aliases": [
+    "republic of korea",
+    "korea, republic of",
+    "남조선"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "KR"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:ss",
+   "kind": "country",
+   "name": "South Sudan",
+   "aliases": [
+    "republic of south sudan"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SS"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:es",
+   "kind": "country",
+   "name": "Spain",
+   "aliases": [
+    "kingdom of spain",
+    "reino de españa"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "ES"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:lk",
+   "kind": "country",
+   "name": "Sri Lanka",
+   "aliases": [
+    "democratic socialist republic of sri lanka",
+    "ilaṅkai"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "LK"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:sd",
+   "kind": "country",
+   "name": "Sudan",
+   "aliases": [
+    "republic of the sudan",
+    "jumhūrīyat as-sūdān"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SD"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:sr",
+   "kind": "country",
+   "name": "Suriname",
+   "aliases": [
+    "republic of suriname",
+    "sarnam",
+    "sranangron",
+    "republiek suriname"
+   ],
+   "region": "south-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SR"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:se",
+   "kind": "country",
+   "name": "Sweden",
+   "aliases": [
+    "kingdom of sweden",
+    "konungariket sverige"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SE"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:ch",
+   "kind": "country",
+   "name": "Switzerland",
+   "aliases": [
+    "swiss confederation",
+    "schweiz",
+    "suisse",
+    "svizzera",
+    "svizra"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "CH"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:sy",
+   "kind": "country",
+   "name": "Syria",
+   "aliases": [
+    "syrian arab republic",
+    "al-jumhūrīyah al-ʻarabīyah as-sūrīyah"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "SY"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:tw",
+   "kind": "country",
+   "name": "Taiwan",
+   "aliases": [
+    "republic of china (taiwan)",
+    "táiwān",
+    "republic of china",
+    "中華民國",
+    "zhōnghuá mínguó",
+    "chinese taipei"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "TW"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:tj",
+   "kind": "country",
+   "name": "Tajikistan",
+   "aliases": [
+    "republic of tajikistan",
+    "toçikiston",
+    "ҷумҳурии тоҷикистон",
+    "çumhuriyi toçikiston"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "TJ"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:tz",
+   "kind": "country",
+   "name": "Tanzania",
+   "aliases": [
+    "united republic of tanzania",
+    "tanzania, united republic of",
+    "jamhuri ya muungano wa tanzania"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "TZ"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:th",
+   "kind": "country",
+   "name": "Thailand",
+   "aliases": [
+    "kingdom of thailand",
+    "prathet",
+    "thai",
+    "ราชอาณาจักรไทย",
+    "ratcha anachak thai"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "TH"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:tl",
+   "kind": "country",
+   "name": "Timor-Leste",
+   "aliases": [
+    "east timor",
+    "democratic republic of timor-leste",
+    "timor",
+    "república democrática de timor-leste",
+    "repúblika demokrátika timór-leste",
+    "timór lorosa'e",
+    "timor lorosae"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "TL"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:tg",
+   "kind": "country",
+   "name": "Togo",
+   "aliases": [
+    "togolese republic",
+    "togolese",
+    "république togolaise"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "TG"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:to",
+   "kind": "country",
+   "name": "Tonga",
+   "aliases": [
+    "kingdom of tonga"
+   ],
+   "region": "oceania",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "TO"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:tt",
+   "kind": "country",
+   "name": "Trinidad and Tobago",
+   "aliases": [
+    "republic of trinidad and tobago"
+   ],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "TT"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:tn",
+   "kind": "country",
+   "name": "Tunisia",
+   "aliases": [
+    "tunisian republic",
+    "republic of tunisia",
+    "al-jumhūriyyah at-tūnisiyyah"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "TN"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:tr",
+   "kind": "country",
+   "name": "Türkiye",
+   "aliases": [
+    "turkey",
+    "republic of türkiye",
+    "turkiye",
+    "republic of turkey",
+    "türkiye cumhuriyeti"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "TR"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:tm",
+   "kind": "country",
+   "name": "Turkmenistan",
+   "aliases": [],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "TM"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:ug",
+   "kind": "country",
+   "name": "Uganda",
+   "aliases": [
+    "republic of uganda",
+    "jamhuri ya uganda"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "UG"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:ua",
+   "kind": "country",
+   "name": "Ukraine",
+   "aliases": [
+    "ukrayina"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "UA"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:ae",
+   "kind": "country",
+   "name": "United Arab Emirates",
+   "aliases": [
+    "uae",
+    "emirates"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "AE"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:gb",
+   "kind": "country",
+   "name": "United Kingdom",
+   "aliases": [
+    "uk",
+    "britain",
+    "great britain",
+    "united kingdom of great britain and northern ireland"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "GB"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:us",
+   "kind": "country",
+   "name": "United States",
+   "aliases": [
+    "america",
+    "the states",
+    "united states of america",
+    "usa"
+   ],
+   "region": "north-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "US"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:uy",
+   "kind": "country",
+   "name": "Uruguay",
+   "aliases": [
+    "oriental republic of uruguay",
+    "república oriental del uruguay"
+   ],
+   "region": "south-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "UY"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:uz",
+   "kind": "country",
+   "name": "Uzbekistan",
+   "aliases": [
+    "republic of uzbekistan",
+    "o‘zbekiston respublikasi",
+    "ўзбекистон республикаси"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "UZ"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:vu",
+   "kind": "country",
+   "name": "Vanuatu",
+   "aliases": [
+    "republic of vanuatu",
+    "ripablik blong vanuatu",
+    "république de vanuatu"
+   ],
+   "region": "oceania",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "VU"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:va",
+   "kind": "country",
+   "name": "Vatican City",
+   "aliases": [
+    "vatican",
+    "the vatican",
+    "vatican city state",
+    "holy see (vatican city state)",
+    "stato della città del vaticano"
+   ],
+   "region": "europe",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "VA"
+   },
+   "tier": 3
+  },
+  {
+   "id": "country:ve",
+   "kind": "country",
+   "name": "Venezuela",
+   "aliases": [
+    "bolivarian republic of venezuela",
+    "venezuela, bolivarian republic of",
+    "república bolivariana de venezuela"
+   ],
+   "region": "south-america",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "VE"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:vn",
+   "kind": "country",
+   "name": "Vietnam",
+   "aliases": [
+    "socialist republic of vietnam",
+    "cộng hòa xã hội chủ nghĩa việt nam",
+    "viet nam"
+   ],
+   "region": "asia",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "VN"
+   },
+   "tier": 2
+  },
+  {
+   "id": "country:ye",
+   "kind": "country",
+   "name": "Yemen",
+   "aliases": [
+    "republic of yemen",
+    "yemeni republic",
+    "al-jumhūriyyah al-yamaniyyah"
+   ],
+   "region": "middle-east",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "YE"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:zm",
+   "kind": "country",
+   "name": "Zambia",
+   "aliases": [
+    "republic of zambia"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "ZM"
+   },
+   "tier": 1
+  },
+  {
+   "id": "country:zw",
+   "kind": "country",
+   "name": "Zimbabwe",
+   "aliases": [
+    "republic of zimbabwe"
+   ],
+   "region": "africa",
+   "geometry": {
+    "type": "iso-a2",
+    "code": "ZW"
+   },
+   "tier": 2
+  }
+ ]
+}
