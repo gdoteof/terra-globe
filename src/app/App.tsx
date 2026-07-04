@@ -35,6 +35,7 @@ export default function App() {
 
   const globeRef = useRef<GlobeHandle>(null);
   const [ready, setReady] = useState(false);
+  const [loadProgress, setLoadProgress] = useState(0);
   const [flashes, setFlashes] = useState<AnswerFlash[]>([]);
   const flashKey = useRef(0);
 
@@ -106,12 +107,25 @@ export default function App() {
         idleSpin={phase === 'menu' || phase === 'summary'}
         onCountrySelect={onCountrySelect}
         onReady={() => setReady(true)}
+        onProgress={setLoadProgress}
       />
       <div className="vignette" aria-hidden />
       <AnimatePresence>
         {!ready && (
           <motion.div key="loading" className="screen loading" exit={{ opacity: 0, transition: { duration: 0.6 } }}>
-            <span className="loading-text mono">charting the coastlines…</span>
+            <div className="loading-box">
+              <span className="loading-text mono">
+                {loadProgress < 0.12
+                  ? 'unrolling the charts…'
+                  : loadProgress < 0.75
+                    ? 'charting the coastlines…'
+                    : 'inking the borders…'}
+              </span>
+              <div className="loading-bar" role="progressbar" aria-valuenow={Math.round(loadProgress * 100)}>
+                <div className="loading-bar-fill" style={{ width: `${Math.round(loadProgress * 100)}%` }} />
+              </div>
+              <span className="loading-pct mono">{Math.round(loadProgress * 100)}%</span>
+            </div>
           </motion.div>
         )}
         {ready && phase === 'menu' && <MenuScreen key="menu" />}

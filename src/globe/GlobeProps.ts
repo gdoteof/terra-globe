@@ -30,6 +30,8 @@ export interface GlobeProps {
   idleSpin: boolean;
   onCountrySelect?: (id: CountryId) => void;
   onHoverChange?: (id: CountryId | null) => void;
-  /** Fires once when geodata is loaded and the globe is on screen. */
+  /** Fires once when geodata is loaded, tessellated, and ready to render. */
   onReady?: () => void;
+  /** Load/build progress in [0, 1], for the loading screen. */
+  onProgress?: (fraction: number) => void;
 }

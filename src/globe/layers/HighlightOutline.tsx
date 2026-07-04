@@ -5,7 +5,7 @@ import { GLOBE_RADIUS } from '../../geo/spherical';
 import type { CountryId } from '../../geo/types';
 import { useGlobeStore } from '../globeStore';
 import { globeTheme } from '../theme';
-import { resampleToSegments } from './CountryBorders';
+import { resampleToSegments } from '../buildGeometry';
 
 const OUTLINE_RADIUS = GLOBE_RADIUS * 1.004;
 

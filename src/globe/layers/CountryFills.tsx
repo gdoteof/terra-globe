@@ -1,17 +1,11 @@
 import { useEffect, useMemo, useRef } from 'react';
 import * as THREE from 'three';
-import { mergeGeometries } from 'three/addons/utils/BufferGeometryUtils.js';
-import ConicPolygonGeometry from 'three-conic-polygon-geometry';
 import { useFrame } from '@react-three/fiber';
-import { GLOBE_RADIUS } from '../../geo/spherical';
-import type { CountryData, CountryId } from '../../geo/types';
+import type { CountryId } from '../../geo/types';
 import { useGlobeStore } from '../globeStore';
 import { PaletteController } from '../palette';
 import { globeTheme } from '../theme';
 import type { AnswerFlash } from '../GlobeProps';
-
-const LAND_RADIUS = GLOBE_RADIUS * 1.001;
-const CURVATURE_DEG = 3;
 
 const vertexShader = /* glsl */ `
   attribute float aCountryIndex;
@@ -47,32 +41,6 @@ const fragmentShader = /* glsl */ `
   }
 `;
 
-function buildMergedGeometry(data: CountryData): THREE.BufferGeometry {
-  const parts: THREE.BufferGeometry[] = [];
-  data.countries.forEach((c, i) => {
-    const polygons = c.geometry.type === 'Polygon' ? [c.geometry.coordinates] : c.geometry.coordinates;
-    for (const rings of polygons) {
-      const g = new ConicPolygonGeometry(
-        rings as number[][][],
-        GLOBE_RADIUS,
-        LAND_RADIUS,
-        false,
-        true,
-        false,
-        CURVATURE_DEG,
-      );
-      g.deleteAttribute('uv');
-      g.clearGroups();
-      const count = g.getAttribute('position').count;
-      g.setAttribute('aCountryIndex', new THREE.BufferAttribute(new Float32Array(count).fill(i), 1));
-      parts.push(g);
-    }
-  });
-  const merged = mergeGeometries(parts, false);
-  parts.forEach((p) => p.dispose());
-  return merged;
-}
-
 interface Props {
   highlightedId: CountryId | null;
   flashes: AnswerFlash[];
@@ -91,8 +59,8 @@ export function CountryFills({ highlightedId, flashes }: Props) {
     return p;
   }, [data]);
 
-  const geometry = useMemo(() => buildMergedGeometry(data), [data]);
-  useEffect(() => () => geometry.dispose(), [geometry]);
+  // prebuilt off the render path by buildGlobeGeometries; lives app-lifetime
+  const geometry = useGlobeStore((s) => s.geoms)!.land;
 
   const material = useMemo(
     () =>
