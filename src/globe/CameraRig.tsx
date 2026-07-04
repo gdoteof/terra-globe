@@ -118,6 +118,10 @@ export function CameraRig({ apiRef, idleSpin }: { apiRef: RefObject<CameraApi | 
 
     const flight = flightRef.current;
     if (flight) {
+      // OrbitControls.update() applies autoRotate even when disabled for input —
+      // left on (e.g. after idling in the menu) it overrides the whole flight
+      spinSpeed.current = 0;
+      controls.autoRotate = false;
       flight.t = Math.min(1, flight.t + delta / flight.duration);
       const k = easeInOutCubic(flight.t);
       const q = new THREE.Quaternion().slerp(flight.qDelta, k);
