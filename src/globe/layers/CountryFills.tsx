@@ -135,7 +135,8 @@ export function CountryFills({ highlightedId, flashes }: Props) {
       seenFlashes.current.add(f.key);
       const i = indexById.get(f.id);
       if (i != null) {
-        palette.flash(i, f.result === 'correct' ? globeTheme.correct : globeTheme.wrong, f.result === 'correct' ? 900 : 1400);
+        // wrong flashes linger through the longer feedback window
+        palette.flash(i, f.result === 'correct' ? globeTheme.correct : globeTheme.wrong, f.result === 'correct' ? 900 : 2300);
       }
     }
   }, [palette, flashes, indexById]);

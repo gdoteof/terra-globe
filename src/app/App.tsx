@@ -17,8 +17,9 @@ const IDLE_DIRECTIVES: GlobeDirectives = {
   suppressLabels: [],
 };
 
-function clickedCode(answer: Answer, pool: Feature[]): string | null {
-  if (answer.mode !== 'click') return null;
+/** The globe code of the country the user picked, for answer kinds that pick one. */
+function pickedCode(answer: Answer, pool: Feature[]): string | null {
+  if (answer.mode === 'fill-in') return null;
   const f = pool.find((p) => p.id === answer.featureId);
   return f ? globeId(f) : null;
 }
@@ -73,12 +74,15 @@ export default function App() {
     const next: AnswerFlash[] = [];
     if (lastResult.correct) {
       next.push({ id: target, result: 'correct', key: ++flashKey.current });
-    } else if (question.mode === 'click' && lastAnswer) {
-      const clicked = clickedCode(lastAnswer, pool);
-      if (clicked && clicked !== target) {
-        next.push({ id: clicked, result: 'wrong', key: ++flashKey.current });
+    } else if (lastAnswer) {
+      // show where the wrong pick actually is, in red
+      const picked = pickedCode(lastAnswer, pool);
+      if (picked && picked !== target) {
+        next.push({ id: picked, result: 'wrong', key: ++flashKey.current });
       }
-      void globeRef.current?.flyTo(target); // teach: go see where it was
+      if (question.mode === 'click') {
+        void globeRef.current?.flyTo(target); // teach: go see where it was
+      }
     }
     if (next.length) setFlashes((f) => [...f.slice(-3), ...next]);
     // eslint-disable-next-line react-hooks/exhaustive-deps
